@@ -26,8 +26,3 @@ Sigma_Security_Group.uzbin.pbo
 Sigma_Security_Group.Utes.pbo
 Sigma_Security_Group.Winthera3.pbo
 Sigma_Security_Group.Zargabad.pbo
-
-
-
-
-
